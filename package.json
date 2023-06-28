@@ -1,27 +1,24 @@
 {
-  "name": "curso-cypress-v2",
+  "name": "curso-cypress-intermediario",
   "version": "1.0.0",
-  "description": "Repositório da versão 2 do curso básico de Cypress da Escola Talking About Testing",
-  "main": "src/index.html",
+  "description": "[Curso intermediário de automação de testes com Cypress](http://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario) da Escola Talking About Testing.",
+  "main": "index.js",
   "scripts": {
-    "cy:open": "cypress open",
     "test": "cypress run"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wlsf82/cypress-basico-v2.git"
+    "url": "git+https://github.com/julianokoslowisk/intermediario.git"
   },
-  "keywords": [
-    "Testing",
-    "Cypress.io",
-    "Talking About Testing",
-    "Cypress Básico",
-    "Escola TAT"
-  ],
-  "author": "Walmy Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
-  "license": "MIT",
-  "homepage": "https://github.com/wlsf82/cypress-basico-v2#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianokoslowisk/intermediario/issues"
+  },
+  "homepage": "https://github.com/julianokoslowisk/intermediario#readme",
   "devDependencies": {
-    "cypress": "^9.5.1"
+    "cypress": "^9.7.0",
+    "faker": "^5.5.3"
   }
 }
