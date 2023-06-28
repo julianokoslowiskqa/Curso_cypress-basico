@@ -1,0 +1,12 @@
+APÓS A ATUALIZAÇÃO 
+OS CENÁRIOS PASSOU A SER EXECUTADOS A PARTIR DA PASTA e2e \ cenários
+Qualquer dúvidas dos cenários do teste por favor me envie e-mail  julianokoslowisk@gmail.com
+
+
+Acesse esse endereço que o mesmo vai ensinar a configurar o framework de automação antes dos testes 
+
+https://github.com/pedrohyvo/cypress-docs-pt-br/blob/master/pages/getting-started/installing-cypress.md
+
+Também tem esse Artigo que ensina como instalar a aplicação
+
+https://medium.com/gruponewway/instalando-o-cypress-sem-mist%C3%A9rios-6d6ee66b78d8
